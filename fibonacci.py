@@ -9,7 +9,7 @@ The program to takes N (variable num in code)
 positive numbers as input, and recursively calculate and output the first N numbers of the Fibonacci sequence (starting from 0).
 '''
 
-num = int(input())
+num = int(input("Emter a number:"))
 
  #Define the recursive function
 def fibonacci(n):
